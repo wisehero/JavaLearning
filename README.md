@@ -1,2 +1,2 @@
 # JavaLearning
-what I learned about Java
+신용권 저자의 혼자공부하는자바에 있는 예제코드와 확인문제 풀이입니다.
