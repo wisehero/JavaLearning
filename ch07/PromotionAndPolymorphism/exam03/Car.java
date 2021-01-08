@@ -9,7 +9,7 @@ public class Car {
 
     // 생성자
     // 메소드
-    int run() {
+    public int run() {
         System.out.println("[자동차가 달립니다.]");
 
         // 모든 타이어를 1회 회전시키기 위해 각 Tire 객체의 roll() 메소드를 호출.
