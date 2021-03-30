@@ -2,7 +2,7 @@ package JavaStandard.ch09.ObjectGetClass.exam01;
 
 public class ClassEx1 {
     public static void main(String[] args) {
-        Card c = new Card("HEART", 3);
+        Card c = new Card("HEART", 3); // new 연산자로 객체 생성
         Card c2 = new Card(); // Class 객체를 통해서 객체 생성
 
         Class cObj = c.getClass();
