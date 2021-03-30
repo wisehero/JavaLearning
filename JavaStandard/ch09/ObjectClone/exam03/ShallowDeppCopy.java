@@ -13,6 +13,10 @@ public class ShallowDeppCopy {
 
         c1.p.x = 9;
         c1.p.y = 9;
+        System.out.println(" = c1의 변경 후 =");
+        System.out.println("c1=" + c1);
+        System.out.println("c2=" + c2);
+        System.out.println("c3=" + c3);
     }
 }
 
